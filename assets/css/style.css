@@ -1,0 +1,16 @@
+*  {
+    padding: 0;
+    margin: 0;
+}
+
+/*---HEADER---*/
+#header {
+    background-image: url(../images/gym_hero_image.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-brand h2 {
+    font-weight: bold;
+}
